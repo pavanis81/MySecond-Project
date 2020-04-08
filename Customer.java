@@ -8,5 +8,8 @@ public class Customer {
 	public String email;
 	public String startDate;
 	public double balance;
-
+        
 }
+
+
+this is my second project using  git
